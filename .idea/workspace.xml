@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="Added main and write console Hello Emre">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment=" new variables" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,12 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687082243006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added main and write console Hello Emre&#10;and sum">
+      <created>1687082526642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687082526642</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" new variables">
+      <created>1687082684648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687082684648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added main and write console Hello Emre" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main and write console Hello Emre" />
+    <MESSAGE value="Added main and write console Hello Emre&#10;and sum" />
+    <MESSAGE value=" new variables" />
+    <option name="LAST_COMMIT_MESSAGE" value=" new variables" />
   </component>
 </project>
