@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment=" new variables" />
+    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 7">
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hesapMakinasi/HesapMakinasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifelse/ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kodBloklari/KodBloklari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="SwitchCase" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,14 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">{
+    &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    }
+    }</component>
+  <component name="RunManager" selected="Application.HesapMakinasi">
+    <configuration name="HesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hesapMakinasi.HesapMakinasi" />
+      <module name="Java103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hesapMakinasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java103" />
@@ -51,8 +73,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="Java103" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifelse.ifElse" />
+      <module name="Java103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifelse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HesapMakinasi" />
+        <item itemvalue="Application.ifElse" />
+        <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -66,35 +111,62 @@
       <option name="presentableId" value="Default" />
       <updated>1687081480006</updated>
     </task>
-    <task id="LOCAL-00001" summary="Added main and write console Hello Emre">
-      <created>1687082243006</created>
+    <task id="LOCAL-00001" summary="new branch 2">
+      <created>1687085388493</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1687082243006</updated>
+      <updated>1687085388493</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added main and write console Hello Emre&#10;and sum">
-      <created>1687082526642</created>
+    <task id="LOCAL-00002" summary="new branch 4">
+      <created>1687085509721</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1687082526642</updated>
+      <updated>1687085509721</updated>
     </task>
-    <task id="LOCAL-00003" summary=" new variables">
-      <created>1687082684648</created>
+    <task id="LOCAL-00003" summary="new branch 5">
+      <created>1687085532761</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1687082684648</updated>
+      <updated>1687085532761</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new branch 6">
+      <created>1687085632901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687085632901</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new branch 7">
+      <created>1687085725285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687085725285</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added main and write console Hello Emre" />
-    <MESSAGE value="Added main and write console Hello Emre&#10;and sum" />
-    <MESSAGE value=" new variables" />
-    <option name="LAST_COMMIT_MESSAGE" value=" new variables" />
+    <MESSAGE value="new branch 2" />
+    <MESSAGE value="new branch 4" />
+    <MESSAGE value="new branch 5" />
+    <MESSAGE value="new branch 6" />
+    <MESSAGE value="new branch 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch 7" />
   </component>
 </project>
