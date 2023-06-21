@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 9">
-      <change afterPath="$PROJECT_DIR$/src/HavaDurumuEtkinlik/SosyalFaaliyet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SayiSiralama/SayiSirala.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
     }
     }</component>
-  <component name="RunManager" selected="Application.SosyalFaaliyet">
+  <component name="RunManager" selected="Application.SayiSirala">
     <configuration name="HesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hesapMakinasi.HesapMakinasi" />
       <module name="Java103" />
@@ -69,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SayiSirala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SayiSiralama.SayiSirala" />
+      <module name="Java103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SayiSiralama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifelse.ifElse" />
-      <module name="Java103" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ifelse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayiSirala" />
         <item itemvalue="Application.SosyalFaaliyet" />
         <item itemvalue="Application.SinifGecme" />
         <item itemvalue="Application.Login" />
         <item itemvalue="Application.HesapMakinasi" />
-        <item itemvalue="Application.ifElse" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687334220226</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new branch 9">
+      <created>1687342712331</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687342712331</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
