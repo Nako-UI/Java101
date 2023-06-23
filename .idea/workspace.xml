@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 13">
-      <change afterPath="$PROJECT_DIR$/src/ChineseZodiac/Zodiac.java" afterDir="false" />
+    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 14">
+      <change afterPath="$PROJECT_DIR$/src/ArtikYil/ArtikYil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
     }
     }</component>
-  <component name="RunManager" selected="Application.Zodiac">
+  <component name="RunManager" selected="Application.ArtikYil">
+    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtikYil.ArtikYil" />
+      <module name="Java103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArtikYil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcProgrami.BurcBulma" />
       <module name="Java103" />
@@ -69,19 +82,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SayiSiralama.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SosyalFaaliyet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HavaDurumuEtkinlik.SosyalFaaliyet" />
-      <module name="Java103" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HavaDurumuEtkinlik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArtikYil" />
         <item itemvalue="Application.Zodiac" />
         <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.SayiSirala" />
-        <item itemvalue="Application.SosyalFaaliyet" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687479470289</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new branch 14">
+      <option name="closed" value="true" />
+      <created>1687481666497</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687481666497</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +252,7 @@
     <MESSAGE value="new branch 11" />
     <MESSAGE value="new branch 12" />
     <MESSAGE value="new branch 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch 13" />
+    <MESSAGE value="new branch 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch 14" />
   </component>
 </project>
