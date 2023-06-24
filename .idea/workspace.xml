@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 14">
-      <change afterPath="$PROJECT_DIR$/src/ArtikYil/ArtikYil.java" afterDir="false" />
+    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 15">
+      <change afterPath="$PROJECT_DIR$/src/Donguler/CiftSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/ContiniueBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/DoWhilePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/doWhilwDongusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/forDongusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/forTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/whileFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +58,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
     }
     }</component>
-  <component name="RunManager" selected="Application.ArtikYil">
-    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArtikYil.ArtikYil" />
+  <component name="RunManager" selected="Application.CiftSayi">
+    <configuration name="CiftSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayi" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArtikYil.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BurcProgrami.BurcBulma" />
+    <configuration name="ContiniueBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.ContiniueBreak" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BurcProgrami.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SayiSirala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SayiSiralama.SayiSirala" />
+    <configuration name="forDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.forDongusu" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SayiSiralama.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcakBileti.UcakBileti" />
+    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.forTest" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UcakBileti.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChineseZodiac.Zodiac" />
+    <configuration name="whileFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.whileFor" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChineseZodiac.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArtikYil" />
-        <item itemvalue="Application.Zodiac" />
-        <item itemvalue="Application.UcakBileti" />
-        <item itemvalue="Application.BurcBulma" />
-        <item itemvalue="Application.SayiSirala" />
+        <item itemvalue="Application.CiftSayi" />
+        <item itemvalue="Application.ContiniueBreak" />
+        <item itemvalue="Application.whileFor" />
+        <item itemvalue="Application.forTest" />
+        <item itemvalue="Application.forDongusu" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687481666497</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new branch 15">
+      <option name="closed" value="true" />
+      <created>1687482744138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687482744138</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +270,7 @@
     <MESSAGE value="new branch 12" />
     <MESSAGE value="new branch 13" />
     <MESSAGE value="new branch 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch 14" />
+    <MESSAGE value="new branch 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch 15" />
   </component>
 </project>
