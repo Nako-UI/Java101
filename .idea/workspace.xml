@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 15">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/CiftSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/ContiniueBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/DoWhilePassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/WhileDongusu3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/doWhilwDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/forDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/forTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/whileFor.java" afterDir="false" />
+    <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 16">
+      <change afterPath="$PROJECT_DIR$/src/Donguler/tekSayi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
     }
     }</component>
-  <component name="RunManager" selected="Application.CiftSayi">
+  <component name="RunManager" selected="Application.tekSayi">
     <configuration name="CiftSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayi" />
       <module name="Java103" />
@@ -85,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.forDongusu" />
+    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.forTest" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.forTest" />
+    <configuration name="tekSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.tekSayi" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tekSayi" />
         <item itemvalue="Application.CiftSayi" />
         <item itemvalue="Application.ContiniueBreak" />
         <item itemvalue="Application.whileFor" />
         <item itemvalue="Application.forTest" />
-        <item itemvalue="Application.forDongusu" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687482744138</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new branch 16">
+      <option name="closed" value="true" />
+      <created>1687610519419</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610519419</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +270,7 @@
     <MESSAGE value="new branch 13" />
     <MESSAGE value="new branch 14" />
     <MESSAGE value="new branch 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch 15" />
+    <MESSAGE value="new branch 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch 16" />
   </component>
 </project>
