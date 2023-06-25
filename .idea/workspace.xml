@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645b517f-7d08-4ecb-8aac-54beb2a66a1f" name="Changes" comment="new branch 20">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Harmonik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/AtmProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/YildizlarUcgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
     }
     }</component>
-  <component name="RunManager" selected="Application.Harmonik">
+  <component name="RunManager" selected="Application.AtmProject">
+    <configuration name="AtmProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.AtmProject" />
+      <module name="Java103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.Faktoriyel" />
       <module name="Java103" />
@@ -75,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KuvvetBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.KuvvetBulanProgram" />
-      <module name="Java103" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Donguler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UsluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.UsluSayi" />
       <module name="Java103" />
@@ -101,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tekSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.tekSayi" />
+    <configuration name="YildizlarUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.YildizlarUcgen" />
       <module name="Java103" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtmProject" />
+        <item itemvalue="Application.YildizlarUcgen" />
         <item itemvalue="Application.Harmonik" />
         <item itemvalue="Application.UsluSayi" />
         <item itemvalue="Application.Faktoriyel" />
-        <item itemvalue="Application.KuvvetBulanProgram" />
-        <item itemvalue="Application.tekSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687643835894</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new branch 20">
+      <option name="closed" value="true" />
+      <created>1687644416046</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687644416046</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
